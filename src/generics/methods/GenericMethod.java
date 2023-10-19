@@ -59,12 +59,15 @@ public class GenericMethod {
 
     //birden fazla data tipini kullanan generic method
     public static <S,U> void printArrayAndValue(S[] arr ,U value){
+
+
+        //value=arr[0];-->farklı data tipleri olabilir
+
+
         Arrays.stream(arr).forEach(t-> System.out.print(t+"  "));
         System.out.println("-----------------------------------" + value);
         System.out.println();
     }
-
-
 
 
 
