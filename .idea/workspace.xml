@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26fa324b-8578-4144-b457-1f3cae96e6b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/enumtyps/PasswordStrengthConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumtyps/PasswordStrengthEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumtyps/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/ThreadCreationWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Multithreading01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Multithreading02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/SynchronizedBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/SynchronizedKeyword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threads/ThreadCreationWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threads/ThreadCreationWays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +48,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/fatma/IdeaProjects/AdvJavaInstruction/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Runner">
-    <configuration name="GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.methods.GenericMethod" />
+  <component name="RunManager" selected="Application.SynchronizedBlock">
+    <configuration name="Multithreading02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.Multithreading02" />
       <module name="AdvJavaInstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.methods.*" />
+          <option name="PATTERN" value="threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericUpperBound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.bounding.GenericUpperBound" />
+    <configuration name="SynchronizedBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.SynchronizedBlock" />
       <module name="AdvJavaInstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.bounding.*" />
+          <option name="PATTERN" value="threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericWhitWildcard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.bounding.GenericWhitWildcard" />
+    <configuration name="SynchronizedKeyword (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.SynchronizedKeyword" />
       <module name="AdvJavaInstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.bounding.*" />
+          <option name="PATTERN" value="threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnenNonGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.classes.RunnenNonGeneric" />
+    <configuration name="SynchronizedKeyword (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.SynchronizedKeyword" />
       <module name="AdvJavaInstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.classes.*" />
+          <option name="PATTERN" value="threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumtyps.Runner" />
+    <configuration name="SynchronizedKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.SynchronizedKeyword" />
       <module name="AdvJavaInstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumtyps.*" />
+          <option name="PATTERN" value="threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.GenericWhitWildcard" />
-        <item itemvalue="Application.GenericUpperBound" />
-        <item itemvalue="Application.GenericMethod" />
-        <item itemvalue="Application.RunnenNonGeneric" />
+        <item itemvalue="Application.SynchronizedBlock" />
+        <item itemvalue="Application.SynchronizedKeyword (2)" />
+        <item itemvalue="Application.SynchronizedKeyword (1)" />
+        <item itemvalue="Application.SynchronizedKeyword" />
+        <item itemvalue="Application.Multithreading02" />
       </list>
     </recent_temporary>
   </component>
