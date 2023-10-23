@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26fa324b-8578-4144-b457-1f3cae96e6b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/threads/Multithreading01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/Multithreading02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/SynchronizedBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/SynchronizedKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Volatile01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/WaitInterrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/WaitNotify.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threads/ThreadCreationWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threads/ThreadCreationWays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +47,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/fatma/IdeaProjects/AdvJavaInstruction/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SynchronizedBlock">
-    <configuration name="Multithreading02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.Multithreading02" />
+  <component name="RunManager" selected="Application.ThreadPool">
+    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.ThreadPool" />
       <module name="AdvJavaInstruction" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.SynchronizedBlock" />
+    <configuration name="Volatile01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.Volatile01" />
       <module name="AdvJavaInstruction" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedKeyword (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.SynchronizedKeyword" />
+    <configuration name="Volatile01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.Volatile01" />
       <module name="AdvJavaInstruction" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedKeyword (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.SynchronizedKeyword" />
+    <configuration name="WaitInterrupt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.WaitInterrupt" />
       <module name="AdvJavaInstruction" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.SynchronizedKeyword" />
+    <configuration name="WaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.WaitNotify" />
       <module name="AdvJavaInstruction" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SynchronizedBlock" />
-        <item itemvalue="Application.SynchronizedKeyword (2)" />
-        <item itemvalue="Application.SynchronizedKeyword (1)" />
-        <item itemvalue="Application.SynchronizedKeyword" />
-        <item itemvalue="Application.Multithreading02" />
+        <item itemvalue="Application.ThreadPool" />
+        <item itemvalue="Application.Volatile01 (1)" />
+        <item itemvalue="Application.Volatile01" />
+        <item itemvalue="Application.WaitInterrupt" />
+        <item itemvalue="Application.WaitNotify" />
       </list>
     </recent_temporary>
   </component>
