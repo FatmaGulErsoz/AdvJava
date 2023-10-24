@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26fa324b-8578-4144-b457-1f3cae96e6b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/threads/ThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/Volatile01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/WaitInterrupt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/WaitNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/CountDownLatch01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Semaphore01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,59 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/fatma/IdeaProjects/AdvJavaInstruction/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreadPool">
+  <component name="RunManager" selected="Application.DeadLock">
+    <configuration name="CountDownLatch01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.CountDownLatch01" />
+      <module name="AdvJavaInstruction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountDownLatch01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.CountDownLatch01" />
+      <module name="AdvJavaInstruction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.DeadLock" />
+      <module name="AdvJavaInstruction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Semaphore01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.Semaphore01" />
+      <module name="AdvJavaInstruction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="threads.ThreadPool" />
       <module name="AdvJavaInstruction" />
@@ -61,65 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Volatile01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.Volatile01" />
-      <module name="AdvJavaInstruction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Volatile01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.Volatile01" />
-      <module name="AdvJavaInstruction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WaitInterrupt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.WaitInterrupt" />
-      <module name="AdvJavaInstruction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.WaitNotify" />
-      <module name="AdvJavaInstruction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeadLock" />
+        <item itemvalue="Application.Semaphore01" />
+        <item itemvalue="Application.CountDownLatch01 (1)" />
+        <item itemvalue="Application.CountDownLatch01" />
         <item itemvalue="Application.ThreadPool" />
-        <item itemvalue="Application.Volatile01 (1)" />
-        <item itemvalue="Application.Volatile01" />
-        <item itemvalue="Application.WaitInterrupt" />
-        <item itemvalue="Application.WaitNotify" />
       </list>
     </recent_temporary>
   </component>
